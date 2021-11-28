@@ -1,4 +1,4 @@
-﻿Station code,Measurement date,precipitation,wind_direction,wind_spped,humidity,local pressure,ground_temperature
+﻿Station code,Measurement date,precipitation,wind_speed,wind_direction,humidity,local pressure,ground_temperature
 108,2017-01-01 1:00,,1.4,20,78,1018.9,-0.9
 108,2017-01-01 2:00,,1.9,50,81,1018.5,-1.8
 108,2017-01-01 3:00,,2,50,84,1018.8,-2.1
