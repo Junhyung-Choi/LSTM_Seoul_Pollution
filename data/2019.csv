@@ -1,4 +1,4 @@
-﻿지점,일시,강수량(mm),풍속(m/s),풍향(16방위),습도(%),현지기압(hPa),지면온도(°C)
+﻿Station code,Measurement date,precipitation,wind_direction,wind_spped,humidity,local pressure,ground_temperature
 108,2019-01-01 1:00,,1.8,270,56,1024,-6.5
 108,2019-01-01 2:00,,1.2,290,60,1024.2,-7.1
 108,2019-01-01 3:00,,2.2,270,62,1024.3,-7.3
